@@ -1,2 +1,2 @@
-alert("just");
+alert("just1");
 alert("it works");
